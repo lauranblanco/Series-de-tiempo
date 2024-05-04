@@ -1,0 +1,13 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```
+
+Ya no sé que más poner , pero bueno, supongo que ya se verá 
+
+# Otra cosa, a ver
